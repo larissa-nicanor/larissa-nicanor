@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou a Larissa</h1>
 
 <p align="center">
-  Desenvolvedora back-end com foco na criação de soluções escaláveis, eficientes e bem estruturadas.
+  Desenvolvedor Full Stack com foco na criação de soluções escaláveis, eficientes e bem estruturadas.
 </p>
 
 ---
