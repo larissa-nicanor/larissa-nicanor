@@ -31,9 +31,3 @@
 * ☕ Acredito na melhoria contínua, evoluindo um pouco a cada commit, onde a cada dia há algo novo para desvendar.
 
 ---
-
-### 🌐 Me Encontre Online
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/larissa-nicanor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Larissa Nicanor"></a>
-</p>
