@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou a Larissa</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack com foco na criação de soluções escaláveis, eficientes e bem estruturadas.
+  Desenvolvedora Back-End com foco na criação de soluções escaláveis, eficientes e bem estruturadas.
 </p>
 
 ---
@@ -9,9 +9,7 @@
 ### 💻 Habilidades & Ferramentas
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px" title="PHP"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/></a>
